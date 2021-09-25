@@ -1,3 +1,12 @@
+body {
+    background: linear-gradient(#cd82ff 0%, #a6e9ff 100%);
+    font-family: cursive;
+}
+
+.row{
+    border-style: dotted;
+    border-color: gold;
+}
 .container
 {
     text-align: center;
@@ -6,8 +15,9 @@
 float:left;
 list-style:none;
 color:lightblue;
+font-family: cursive;
 position:fixed;
-background:black;
+background:pink;
 width:100%;
 margin-top:0px;
 top:0px;
